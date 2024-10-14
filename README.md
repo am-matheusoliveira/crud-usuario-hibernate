@@ -1,1 +1,10 @@
-Sistema de sorteio de amigos, para o amigo secreto
+### CRUD de Usuários
+
+## Pequeno sistema de controle de usuários desenvolvido em Java com o ORM - JPA Hibernate
+
+## Ferramentas usadas
+* #### Linguagem Java JDK 23
+* #### JPA Hibernate 5
+* #### DataBase MySQL 8
+* #### IDE - IntelliJ IDEA
+
