@@ -1,6 +1,6 @@
-# CRUD de Usuários
+# CRUD de usuários em Java via linha de comando.
 
-## Pequeno sistema de controle de usuários desenvolvido em Java com o ORM - JPA Hibernate e o Banco de Dados MySQL
+## Projeto em Java que implementa um CRUD de usuários, com todas as operações realizadas via linha de comando. Inclui funcionalidades de criação, leitura, atualização e exclusão de usuários diretamente no terminal.
 
 ### Ferramentas usadas
 * #### Linguagem Java JDK 23
